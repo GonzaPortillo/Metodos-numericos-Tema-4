@@ -200,6 +200,9 @@ Algunos de estos metodos son:
 
 
 ## Resultados de compilación
+### Funcion resuelta
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/b4c4567f-8932-4aad-8ebf-81a4ef4619f1)
+
 ### Regla de Simpson 1/3
 
 ![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/c3b31a13-4cfb-468e-b72c-762913c639b4)
