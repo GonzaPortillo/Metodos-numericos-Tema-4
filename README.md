@@ -1,7 +1,7 @@
 # Diferenciación e Integración Numérica
 
 ## INDICE
-1. [Introducción](
+1. [Introducción](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#introduccion)
 2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#algoritmos)
 3. [Implementación en Java](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#implementacion-en-java)
 4. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#problemas)
