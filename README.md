@@ -1,11 +1,12 @@
 # Diferenciación e Integración Numérica
 
 ## INDICE
-1. [Intro
-2. [Algoritmos
-3. [Codigo en Java
-4. [Resultados de compilación
-5. [Conclusion
+1. [Introducción](
+2. [Algoritmos](
+3. [Codigo en Java](
+4. [Problemas](
+5. [Resultados de compilación](
+6. [Conclusion](
 
 ## Introduccion
 
@@ -198,6 +199,15 @@ Algunos de estos metodos son:
         }
     }
 
+## Problemas
+Las siguientes funciones se realizaron con los 3 algortimos presentados
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/b009ace8-bf44-4c38-addc-5b08e6361d13)
+
+Las 5 funciones se encontraran aqui implementadas con los codigos anteriormente presentados
+
+* [Simpson 1/3](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/tree/main/Simpson%201.3)
+* [Simpson 3/8](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/tree/main/Simpson%203.8)
+* [Trapecio](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/tree/main/Metodo%20del%20Trapecio)
 
 ## Resultados de compilación
 ### Funcion resuelta
