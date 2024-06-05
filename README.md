@@ -1,12 +1,11 @@
 # Diferenciación e Integración Numérica
 
 ## INDICE
-1. Indice
-2. Intro
-3. Algoritmos
-4. Codigo en Java
-5. Resultados de compilación
-6. Conclusion
+1. [Intro
+2. [Algoritmos
+3. [Codigo en Java
+4. [Resultados de compilación
+5. [Conclusion
 
 ## Introduccion
 
@@ -21,6 +20,10 @@ Algunos de estos metodos son:
 ### Algoritmos
 
 ### Regla de Simpson 1/3
+#### Formula
+![10-2](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/5e067e4f-377a-44be-bd06-efbd3230eb5d)
+![10-2](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/5e067e4f-377a-44be-bd06-efbd3230eb5d)
+
 1. f(x) que se desea integrar.
 2. Especificar el intervalo de integración,[a,b].
 3. Dividir el intervalo [a,b] en n subintervalos de igual tamaño, donde n es un número par.
@@ -31,6 +34,7 @@ Algunos de estos metodos son:
 8. Devolver el valor calculado como la aproximación de la integral.
 
 ### Regla de Simpson 3/8
+#### Formula
 1 Definir la función f(x). 
 2. Lea el límite inferior de integración, el límite superior de integración y número de subintervalo. 
 3. Cálculos: tamaño del paso = (límite superior - límite inferior)/número de subintervalo. 
@@ -44,7 +48,8 @@ Algunos de estos metodos son:
 11. Mostrar el valor de integración como respuesta requerida. 
 12. Detener.
 
-### Metodo de Trapecio 
+### Metodo de Trapecio
+#### Formula
 1. Definir el intervalo de integración [a, b] y el número de subintervalos n en los que se dividirá el intervalo.
 2. Calcular el ancho de cada subintervalo: h = (b - a) / n
 3. Evaluar la función en los puntos extremos del intervalo (a y b) y en los puntos intermedios (xi = a + i*h, donde i = 1, 2, ..., n-1).
