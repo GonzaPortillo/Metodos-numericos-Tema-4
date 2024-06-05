@@ -4,7 +4,7 @@
 1. [Introducción](
 2. [Algoritmos](
 3. [Codigo en Java](
-4. [Problemas](
+4. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#problemas)
 5. [Resultados de compilación](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#resultados-de-compilación)
 6. [Conclusion](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#conclusion)
 
