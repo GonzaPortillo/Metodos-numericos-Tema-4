@@ -2,7 +2,7 @@
 
 ## INDICE
 1. [Introducción](
-2. [Algoritmos](
+2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#algoritmos)
 3. [Implementación en Java](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#implementacion-en-java)
 4. [Problemas](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#problemas)
 5. [Resultados de compilación](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/blob/main/README.md#resultados-de-compilación)
