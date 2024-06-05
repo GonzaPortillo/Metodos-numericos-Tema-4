@@ -22,7 +22,6 @@ Algunos de estos metodos son:
 ### Regla de Simpson 1/3
 #### Formula
 ![10-2](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/5e067e4f-377a-44be-bd06-efbd3230eb5d)
-![10-2](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/5e067e4f-377a-44be-bd06-efbd3230eb5d)
 
 1. f(x) que se desea integrar.
 2. Especificar el intervalo de integración,[a,b].
@@ -35,6 +34,8 @@ Algunos de estos metodos son:
 
 ### Regla de Simpson 3/8
 #### Formula
+![slide_1](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/bb266e88-b289-478b-881d-83153d8cfdeb)
+
 1 Definir la función f(x). 
 2. Lea el límite inferior de integración, el límite superior de integración y número de subintervalo. 
 3. Cálculos: tamaño del paso = (límite superior - límite inferior)/número de subintervalo. 
@@ -50,6 +51,7 @@ Algunos de estos metodos son:
 
 ### Metodo de Trapecio
 #### Formula
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/380619a6-27a9-4793-9ea5-a6b7bb2158af)
 1. Definir el intervalo de integración [a, b] y el número de subintervalos n en los que se dividirá el intervalo.
 2. Calcular el ancho de cada subintervalo: h = (b - a) / n
 3. Evaluar la función en los puntos extremos del intervalo (a y b) y en los puntos intermedios (xi = a + i*h, donde i = 1, 2, ..., n-1).
@@ -57,6 +59,8 @@ Algunos de estos metodos son:
 5. Cuantos más subintervalos se tomen (es decir, mayor sea n), más precisa será la aproximación de la integral.
 
 ## Implementacion en Java
+### Funcion que se resuelve en la implementación
+![image](https://github.com/GonzaPortillo/Metodos-numericos-Tema-4/assets/160778946/b4c4567f-8932-4aad-8ebf-81a4ef4619f1)
 
 ### Regla de Simpson 1/3
 
